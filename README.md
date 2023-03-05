@@ -23,6 +23,9 @@ su - ${USER}
 
 ## Installing Docker Compose
 
+
+[Install the Compose plugin](https://docs.docker.com/compose/install/linux/)
+
 [Install and Configure Docker Compose on Ubuntu 22.04 LTS Jammy](https://www.how2shout.com/linux/install-and-configure-docker-compose-on-ubuntu-22-04-lts-jammy/)
 
 
