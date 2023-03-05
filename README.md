@@ -23,4 +23,7 @@ su - ${USER}
 
 ## Installing Docker Compose
 
-+ [How To Install and Use Docker Compose on Ubuntu 22.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04)
+[Install and Configure Docker Compose on Ubuntu 22.04 LTS Jammy](https://www.how2shout.com/linux/install-and-configure-docker-compose-on-ubuntu-22-04-lts-jammy/)
+
+
+sudo apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin
