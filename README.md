@@ -23,6 +23,7 @@ su - ${USER}
 
 ## Installing Docker Compose
 
+https://www.smarthomebeginner.com/install-docker-on-ubuntu-22-04/
 
 [Install the Compose plugin](https://docs.docker.com/compose/install/linux/)
 
